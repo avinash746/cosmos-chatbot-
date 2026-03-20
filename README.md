@@ -137,6 +137,14 @@ cd space-chatbot
 ```bash
 npm install
 ```
+#  New Next.js project banao
+npx create-next-app@14.2.3 space-chatbot --typescript --tailwind --eslint --app --no-src-dir --import-alias "@/*"
+
+# Folder me jao
+cd space-chatbot
+
+# Dependencies install karo
+npm install ai@3.0.0 openai@4.67.0 react-markdown@9.0.1 remark-gfm@4.0.1 lucide-react@0.383.0
 
 ### 3. Set environment variables
 ```bash
@@ -223,6 +231,4 @@ All prompting, code review, integration, and feature decisions were done manuall
 
 ## 📬 Contact
 
-Built by **[Avinash Kumar]** for Thinkly Labs Software Engineering Assignment — March 2026.
-
-GitHub: [@yourusername](https://github.com/yourusername)
+Built by **[Avinash Kumar]**  — March 2026.
