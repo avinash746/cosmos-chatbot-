@@ -8,7 +8,7 @@ A purpose-built AI chatbot with a cinematic cosmic UI. Built as a frontend engin
 
 ## 🚀 Live Demo
 
-**[cosmos-chatbot.vercel.app](https://cosmos-chatbot.vercel.app)** ← Replace with your deployed URL
+**[cosmos-chatbot.vercel.app](https://cosmos-chatbot.vercel.app/)** ← Replace with your deployed URL
 
 ---
 
